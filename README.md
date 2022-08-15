@@ -1,2 +1,2 @@
-# phpstorm-light-daisy-theme
-Custom light color scheme for PHPStorm
+# Custom light color scheme
+Best used with "Gray" theme and "Dank Mono" font.
